@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import assets from "../assets/assets";
-import ThemeTogglebtn from "./ThemeTogglebtn";
+import ThemeTogglebtn from "./ThemeToggleBtn";
 import { motion } from "motion/react";
 
 const Navbar = ({ theme, setTheme }) => {
